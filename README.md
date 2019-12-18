@@ -1,12 +1,14 @@
-# demo
-This is my demo repo
+# My repo for latest projects at INSAID
 
+## Here is the list of all projects
 
-- Point 1
-- Point 2
+- Finance
+- Accounts
+- Banking
+- Energy
 
-___
-
-```
-print('hello world')
-```
+|  Finance Project | [![Finance](https://raw.githubusercontent.com/srinivasracherla/demo/master/images/5-0_finance_1366.jpg "Finance")](https://raw.githubusercontent.com/srinivasracherla/demo/master/images/5-0_finance_1366.jpg "Finance") |
+| :------------: | :------------: |
+|   |  Accounts Project |
+| Banking Project  |   |
+|   | Energy Project  |
